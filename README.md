@@ -2,7 +2,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on updating current projects for perfection.
-- 🌱 I’m currently learning C# .NET.
+- 🌱 I’m currently learning AWS Cloud
 - 💬 Ask me about anything!
 - 📫 How to reach me: michaelmarck117@gmail.com.
 - ⚡ Fun fact: I was feautued on ESPN multiple times for competitions.
